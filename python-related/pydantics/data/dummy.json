@@ -1,0 +1,51 @@
+[
+    {
+      "id": 123,
+      "title": "Dummy Product 1",
+      "description": "This is a dummy product description for product 1.",
+      "sold": true,
+      "variants": [
+        {
+          "label": "Variant 1",
+          "key": "variant1"
+        },
+        {
+          "label": "Variant 2",
+          "key": "variant2"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Dummy Product 2",
+      "description": "This is a dummy product description for product 2.",
+      "sold": false,
+      "variants": [
+        {
+          "label": "Variant A",
+          "key": "variantA"
+        },
+        {
+          "label": "Variant B",
+          "key": "variantB"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Dummy Product 3",
+      "description": "This is a dummy product description for product 3.",
+      "sold": true,
+      "variants": [
+        {
+          "label": "Variant X",
+          "key": "variantX"
+        },
+        {
+          "label": "Variant Y",
+          "key": "variantY"
+        }
+      ]
+    }
+  ]
+  
